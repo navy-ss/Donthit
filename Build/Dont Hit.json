@@ -1,0 +1,11 @@
+{
+"companyName": "ANIRBAN",
+"productName": "DONT HIT",
+"dataUrl": "Dont Hit.data.unityweb",
+"asmCodeUrl": "Dont Hit.asm.code.unityweb",
+"asmMemoryUrl": "Dont Hit.asm.memory.unityweb",
+"asmFrameworkUrl": "Dont Hit.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Light",
+"backgroundColor": "#F6F6F6"
+}
